@@ -1,0 +1,42 @@
+[
+  {
+    "fixture_id":"FIX-001",
+    "case_id":"ANOM-001",
+    "issue_type":"FACULTY_OUTSIDE_SKILL_SET",
+    "entity_id":"SEC-2026-000001",
+    "invalid_condition":"Assigned faculty lacks course.required_skill",
+    "baseline_corrupted":false
+  },
+  {
+    "fixture_id":"FIX-002",
+    "case_id":"ANOM-002",
+    "issue_type":"WORKLOAD_EXCEEDED",
+    "entity_id":"SEC-2026-000001",
+    "invalid_condition":"Proposed weekly hours exceed faculty weekly_workload_limit",
+    "baseline_corrupted":false
+  },
+  {
+    "fixture_id":"FIX-003",
+    "case_id":"ANOM-003",
+    "issue_type":"SECTION_CAPACITY_TOO_LOW",
+    "entity_id":"SEC-2026-000001",
+    "invalid_condition":"Forecast demand is greater than sum of section capacities",
+    "baseline_corrupted":false
+  },
+  {
+    "fixture_id":"FIX-004",
+    "case_id":"ANOM-004",
+    "issue_type":"COURSE_BEFORE_PREREQUISITE",
+    "entity_id":"CRS-000001",
+    "invalid_condition":"Course term precedes completion term of required course",
+    "baseline_corrupted":false
+  },
+  {
+    "fixture_id":"FIX-005",
+    "case_id":"ANOM-005",
+    "issue_type":"DUPLICATE_SECTION_ASSIGNMENT",
+    "entity_id":"SEC-2026-000001",
+    "invalid_condition":"Same faculty is assigned to same section more than once",
+    "baseline_corrupted":false
+  }
+]

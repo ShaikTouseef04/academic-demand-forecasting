@@ -1,0 +1,23 @@
+{
+  "provenance": "Fully synthetic data generated locally; no personal or external source data used.",
+  "seed": 20261022,
+  "generator": "src/planner.py",
+  "tables": [
+    "programs",
+    "courses",
+    "prerequisites",
+    "student_plans",
+    "registration_interests",
+    "faculty",
+    "faculty_skills",
+    "availability",
+    "rooms",
+    "sections",
+    "workload_assignments",
+    "demand_forecast",
+    "unmet_demand",
+    "state_events",
+    "anomaly_fixtures",
+    "ground_truth"
+  ]
+}

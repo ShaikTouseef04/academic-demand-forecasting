@@ -1,0 +1,28 @@
+{
+  "seed": 20261022,
+  "scale": "full",
+  "term": "2026-FALL",
+  "volumes": {
+    "starter": {
+      "programs": 10,
+      "courses": 100,
+      "faculty": 50,
+      "student_plans": 2000,
+      "rooms": 20
+    },
+    "full": {
+      "programs": 100,
+      "courses": 1000,
+      "faculty": 500,
+      "student_plans": 20000,
+      "rooms": 150
+    }
+  },
+  "history_terms": [
+    "2025-SPRING",
+    "2025-FALL",
+    "2026-SPRING"
+  ],
+  "target_term": "2026-FALL",
+  "inject_anomalies": true
+}

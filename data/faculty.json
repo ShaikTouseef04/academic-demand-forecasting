@@ -1,0 +1,3502 @@
+[
+  {
+    "faculty_id":"FAC-000001",
+    "faculty_name":"Faculty 0001",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000002",
+    "faculty_name":"Faculty 0002",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000003",
+    "faculty_name":"Faculty 0003",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000004",
+    "faculty_name":"Faculty 0004",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000005",
+    "faculty_name":"Faculty 0005",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000006",
+    "faculty_name":"Faculty 0006",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000007",
+    "faculty_name":"Faculty 0007",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000008",
+    "faculty_name":"Faculty 0008",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000009",
+    "faculty_name":"Faculty 0009",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000010",
+    "faculty_name":"Faculty 0010",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000011",
+    "faculty_name":"Faculty 0011",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000012",
+    "faculty_name":"Faculty 0012",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000013",
+    "faculty_name":"Faculty 0013",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000014",
+    "faculty_name":"Faculty 0014",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000015",
+    "faculty_name":"Faculty 0015",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000016",
+    "faculty_name":"Faculty 0016",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000017",
+    "faculty_name":"Faculty 0017",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000018",
+    "faculty_name":"Faculty 0018",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000019",
+    "faculty_name":"Faculty 0019",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000020",
+    "faculty_name":"Faculty 0020",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000021",
+    "faculty_name":"Faculty 0021",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000022",
+    "faculty_name":"Faculty 0022",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000023",
+    "faculty_name":"Faculty 0023",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000024",
+    "faculty_name":"Faculty 0024",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000025",
+    "faculty_name":"Faculty 0025",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000026",
+    "faculty_name":"Faculty 0026",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000027",
+    "faculty_name":"Faculty 0027",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000028",
+    "faculty_name":"Faculty 0028",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000029",
+    "faculty_name":"Faculty 0029",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000030",
+    "faculty_name":"Faculty 0030",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000031",
+    "faculty_name":"Faculty 0031",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000032",
+    "faculty_name":"Faculty 0032",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000033",
+    "faculty_name":"Faculty 0033",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000034",
+    "faculty_name":"Faculty 0034",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000035",
+    "faculty_name":"Faculty 0035",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000036",
+    "faculty_name":"Faculty 0036",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000037",
+    "faculty_name":"Faculty 0037",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000038",
+    "faculty_name":"Faculty 0038",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000039",
+    "faculty_name":"Faculty 0039",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000040",
+    "faculty_name":"Faculty 0040",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000041",
+    "faculty_name":"Faculty 0041",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000042",
+    "faculty_name":"Faculty 0042",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000043",
+    "faculty_name":"Faculty 0043",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000044",
+    "faculty_name":"Faculty 0044",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000045",
+    "faculty_name":"Faculty 0045",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000046",
+    "faculty_name":"Faculty 0046",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000047",
+    "faculty_name":"Faculty 0047",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000048",
+    "faculty_name":"Faculty 0048",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000049",
+    "faculty_name":"Faculty 0049",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000050",
+    "faculty_name":"Faculty 0050",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000051",
+    "faculty_name":"Faculty 0051",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000052",
+    "faculty_name":"Faculty 0052",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000053",
+    "faculty_name":"Faculty 0053",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000054",
+    "faculty_name":"Faculty 0054",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000055",
+    "faculty_name":"Faculty 0055",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000056",
+    "faculty_name":"Faculty 0056",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000057",
+    "faculty_name":"Faculty 0057",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000058",
+    "faculty_name":"Faculty 0058",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000059",
+    "faculty_name":"Faculty 0059",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000060",
+    "faculty_name":"Faculty 0060",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000061",
+    "faculty_name":"Faculty 0061",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000062",
+    "faculty_name":"Faculty 0062",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000063",
+    "faculty_name":"Faculty 0063",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000064",
+    "faculty_name":"Faculty 0064",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000065",
+    "faculty_name":"Faculty 0065",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000066",
+    "faculty_name":"Faculty 0066",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000067",
+    "faculty_name":"Faculty 0067",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000068",
+    "faculty_name":"Faculty 0068",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000069",
+    "faculty_name":"Faculty 0069",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000070",
+    "faculty_name":"Faculty 0070",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000071",
+    "faculty_name":"Faculty 0071",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000072",
+    "faculty_name":"Faculty 0072",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000073",
+    "faculty_name":"Faculty 0073",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000074",
+    "faculty_name":"Faculty 0074",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000075",
+    "faculty_name":"Faculty 0075",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000076",
+    "faculty_name":"Faculty 0076",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000077",
+    "faculty_name":"Faculty 0077",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000078",
+    "faculty_name":"Faculty 0078",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000079",
+    "faculty_name":"Faculty 0079",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000080",
+    "faculty_name":"Faculty 0080",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000081",
+    "faculty_name":"Faculty 0081",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000082",
+    "faculty_name":"Faculty 0082",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000083",
+    "faculty_name":"Faculty 0083",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000084",
+    "faculty_name":"Faculty 0084",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000085",
+    "faculty_name":"Faculty 0085",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000086",
+    "faculty_name":"Faculty 0086",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000087",
+    "faculty_name":"Faculty 0087",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000088",
+    "faculty_name":"Faculty 0088",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000089",
+    "faculty_name":"Faculty 0089",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000090",
+    "faculty_name":"Faculty 0090",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000091",
+    "faculty_name":"Faculty 0091",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000092",
+    "faculty_name":"Faculty 0092",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000093",
+    "faculty_name":"Faculty 0093",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000094",
+    "faculty_name":"Faculty 0094",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000095",
+    "faculty_name":"Faculty 0095",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000096",
+    "faculty_name":"Faculty 0096",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000097",
+    "faculty_name":"Faculty 0097",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000098",
+    "faculty_name":"Faculty 0098",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000099",
+    "faculty_name":"Faculty 0099",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000100",
+    "faculty_name":"Faculty 0100",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000101",
+    "faculty_name":"Faculty 0101",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000102",
+    "faculty_name":"Faculty 0102",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000103",
+    "faculty_name":"Faculty 0103",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000104",
+    "faculty_name":"Faculty 0104",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000105",
+    "faculty_name":"Faculty 0105",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000106",
+    "faculty_name":"Faculty 0106",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000107",
+    "faculty_name":"Faculty 0107",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000108",
+    "faculty_name":"Faculty 0108",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000109",
+    "faculty_name":"Faculty 0109",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000110",
+    "faculty_name":"Faculty 0110",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000111",
+    "faculty_name":"Faculty 0111",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000112",
+    "faculty_name":"Faculty 0112",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000113",
+    "faculty_name":"Faculty 0113",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000114",
+    "faculty_name":"Faculty 0114",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000115",
+    "faculty_name":"Faculty 0115",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000116",
+    "faculty_name":"Faculty 0116",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000117",
+    "faculty_name":"Faculty 0117",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000118",
+    "faculty_name":"Faculty 0118",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000119",
+    "faculty_name":"Faculty 0119",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000120",
+    "faculty_name":"Faculty 0120",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000121",
+    "faculty_name":"Faculty 0121",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000122",
+    "faculty_name":"Faculty 0122",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000123",
+    "faculty_name":"Faculty 0123",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000124",
+    "faculty_name":"Faculty 0124",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000125",
+    "faculty_name":"Faculty 0125",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000126",
+    "faculty_name":"Faculty 0126",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000127",
+    "faculty_name":"Faculty 0127",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000128",
+    "faculty_name":"Faculty 0128",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000129",
+    "faculty_name":"Faculty 0129",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000130",
+    "faculty_name":"Faculty 0130",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000131",
+    "faculty_name":"Faculty 0131",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000132",
+    "faculty_name":"Faculty 0132",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000133",
+    "faculty_name":"Faculty 0133",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000134",
+    "faculty_name":"Faculty 0134",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000135",
+    "faculty_name":"Faculty 0135",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000136",
+    "faculty_name":"Faculty 0136",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000137",
+    "faculty_name":"Faculty 0137",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000138",
+    "faculty_name":"Faculty 0138",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000139",
+    "faculty_name":"Faculty 0139",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000140",
+    "faculty_name":"Faculty 0140",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000141",
+    "faculty_name":"Faculty 0141",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000142",
+    "faculty_name":"Faculty 0142",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000143",
+    "faculty_name":"Faculty 0143",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000144",
+    "faculty_name":"Faculty 0144",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000145",
+    "faculty_name":"Faculty 0145",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000146",
+    "faculty_name":"Faculty 0146",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000147",
+    "faculty_name":"Faculty 0147",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000148",
+    "faculty_name":"Faculty 0148",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000149",
+    "faculty_name":"Faculty 0149",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000150",
+    "faculty_name":"Faculty 0150",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000151",
+    "faculty_name":"Faculty 0151",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000152",
+    "faculty_name":"Faculty 0152",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000153",
+    "faculty_name":"Faculty 0153",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000154",
+    "faculty_name":"Faculty 0154",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000155",
+    "faculty_name":"Faculty 0155",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000156",
+    "faculty_name":"Faculty 0156",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000157",
+    "faculty_name":"Faculty 0157",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000158",
+    "faculty_name":"Faculty 0158",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000159",
+    "faculty_name":"Faculty 0159",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000160",
+    "faculty_name":"Faculty 0160",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000161",
+    "faculty_name":"Faculty 0161",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000162",
+    "faculty_name":"Faculty 0162",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000163",
+    "faculty_name":"Faculty 0163",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000164",
+    "faculty_name":"Faculty 0164",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000165",
+    "faculty_name":"Faculty 0165",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000166",
+    "faculty_name":"Faculty 0166",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000167",
+    "faculty_name":"Faculty 0167",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000168",
+    "faculty_name":"Faculty 0168",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000169",
+    "faculty_name":"Faculty 0169",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000170",
+    "faculty_name":"Faculty 0170",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000171",
+    "faculty_name":"Faculty 0171",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000172",
+    "faculty_name":"Faculty 0172",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000173",
+    "faculty_name":"Faculty 0173",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000174",
+    "faculty_name":"Faculty 0174",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000175",
+    "faculty_name":"Faculty 0175",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000176",
+    "faculty_name":"Faculty 0176",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000177",
+    "faculty_name":"Faculty 0177",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000178",
+    "faculty_name":"Faculty 0178",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000179",
+    "faculty_name":"Faculty 0179",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000180",
+    "faculty_name":"Faculty 0180",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000181",
+    "faculty_name":"Faculty 0181",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000182",
+    "faculty_name":"Faculty 0182",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000183",
+    "faculty_name":"Faculty 0183",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000184",
+    "faculty_name":"Faculty 0184",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000185",
+    "faculty_name":"Faculty 0185",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000186",
+    "faculty_name":"Faculty 0186",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000187",
+    "faculty_name":"Faculty 0187",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000188",
+    "faculty_name":"Faculty 0188",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000189",
+    "faculty_name":"Faculty 0189",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000190",
+    "faculty_name":"Faculty 0190",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000191",
+    "faculty_name":"Faculty 0191",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000192",
+    "faculty_name":"Faculty 0192",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000193",
+    "faculty_name":"Faculty 0193",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000194",
+    "faculty_name":"Faculty 0194",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000195",
+    "faculty_name":"Faculty 0195",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000196",
+    "faculty_name":"Faculty 0196",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000197",
+    "faculty_name":"Faculty 0197",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000198",
+    "faculty_name":"Faculty 0198",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000199",
+    "faculty_name":"Faculty 0199",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000200",
+    "faculty_name":"Faculty 0200",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000201",
+    "faculty_name":"Faculty 0201",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000202",
+    "faculty_name":"Faculty 0202",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000203",
+    "faculty_name":"Faculty 0203",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000204",
+    "faculty_name":"Faculty 0204",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000205",
+    "faculty_name":"Faculty 0205",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000206",
+    "faculty_name":"Faculty 0206",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000207",
+    "faculty_name":"Faculty 0207",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000208",
+    "faculty_name":"Faculty 0208",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000209",
+    "faculty_name":"Faculty 0209",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000210",
+    "faculty_name":"Faculty 0210",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000211",
+    "faculty_name":"Faculty 0211",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000212",
+    "faculty_name":"Faculty 0212",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000213",
+    "faculty_name":"Faculty 0213",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000214",
+    "faculty_name":"Faculty 0214",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000215",
+    "faculty_name":"Faculty 0215",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000216",
+    "faculty_name":"Faculty 0216",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000217",
+    "faculty_name":"Faculty 0217",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000218",
+    "faculty_name":"Faculty 0218",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000219",
+    "faculty_name":"Faculty 0219",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000220",
+    "faculty_name":"Faculty 0220",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000221",
+    "faculty_name":"Faculty 0221",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000222",
+    "faculty_name":"Faculty 0222",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000223",
+    "faculty_name":"Faculty 0223",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000224",
+    "faculty_name":"Faculty 0224",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000225",
+    "faculty_name":"Faculty 0225",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000226",
+    "faculty_name":"Faculty 0226",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000227",
+    "faculty_name":"Faculty 0227",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000228",
+    "faculty_name":"Faculty 0228",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000229",
+    "faculty_name":"Faculty 0229",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000230",
+    "faculty_name":"Faculty 0230",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000231",
+    "faculty_name":"Faculty 0231",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000232",
+    "faculty_name":"Faculty 0232",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000233",
+    "faculty_name":"Faculty 0233",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000234",
+    "faculty_name":"Faculty 0234",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000235",
+    "faculty_name":"Faculty 0235",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000236",
+    "faculty_name":"Faculty 0236",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000237",
+    "faculty_name":"Faculty 0237",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000238",
+    "faculty_name":"Faculty 0238",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000239",
+    "faculty_name":"Faculty 0239",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000240",
+    "faculty_name":"Faculty 0240",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000241",
+    "faculty_name":"Faculty 0241",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000242",
+    "faculty_name":"Faculty 0242",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000243",
+    "faculty_name":"Faculty 0243",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000244",
+    "faculty_name":"Faculty 0244",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000245",
+    "faculty_name":"Faculty 0245",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000246",
+    "faculty_name":"Faculty 0246",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000247",
+    "faculty_name":"Faculty 0247",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000248",
+    "faculty_name":"Faculty 0248",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000249",
+    "faculty_name":"Faculty 0249",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000250",
+    "faculty_name":"Faculty 0250",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000251",
+    "faculty_name":"Faculty 0251",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000252",
+    "faculty_name":"Faculty 0252",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000253",
+    "faculty_name":"Faculty 0253",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000254",
+    "faculty_name":"Faculty 0254",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000255",
+    "faculty_name":"Faculty 0255",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000256",
+    "faculty_name":"Faculty 0256",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000257",
+    "faculty_name":"Faculty 0257",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000258",
+    "faculty_name":"Faculty 0258",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000259",
+    "faculty_name":"Faculty 0259",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000260",
+    "faculty_name":"Faculty 0260",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000261",
+    "faculty_name":"Faculty 0261",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000262",
+    "faculty_name":"Faculty 0262",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000263",
+    "faculty_name":"Faculty 0263",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000264",
+    "faculty_name":"Faculty 0264",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000265",
+    "faculty_name":"Faculty 0265",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000266",
+    "faculty_name":"Faculty 0266",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000267",
+    "faculty_name":"Faculty 0267",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000268",
+    "faculty_name":"Faculty 0268",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000269",
+    "faculty_name":"Faculty 0269",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000270",
+    "faculty_name":"Faculty 0270",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000271",
+    "faculty_name":"Faculty 0271",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000272",
+    "faculty_name":"Faculty 0272",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000273",
+    "faculty_name":"Faculty 0273",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000274",
+    "faculty_name":"Faculty 0274",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000275",
+    "faculty_name":"Faculty 0275",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000276",
+    "faculty_name":"Faculty 0276",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000277",
+    "faculty_name":"Faculty 0277",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000278",
+    "faculty_name":"Faculty 0278",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000279",
+    "faculty_name":"Faculty 0279",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000280",
+    "faculty_name":"Faculty 0280",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000281",
+    "faculty_name":"Faculty 0281",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000282",
+    "faculty_name":"Faculty 0282",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000283",
+    "faculty_name":"Faculty 0283",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000284",
+    "faculty_name":"Faculty 0284",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000285",
+    "faculty_name":"Faculty 0285",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000286",
+    "faculty_name":"Faculty 0286",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000287",
+    "faculty_name":"Faculty 0287",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000288",
+    "faculty_name":"Faculty 0288",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000289",
+    "faculty_name":"Faculty 0289",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000290",
+    "faculty_name":"Faculty 0290",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000291",
+    "faculty_name":"Faculty 0291",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000292",
+    "faculty_name":"Faculty 0292",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000293",
+    "faculty_name":"Faculty 0293",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000294",
+    "faculty_name":"Faculty 0294",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000295",
+    "faculty_name":"Faculty 0295",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000296",
+    "faculty_name":"Faculty 0296",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000297",
+    "faculty_name":"Faculty 0297",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000298",
+    "faculty_name":"Faculty 0298",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000299",
+    "faculty_name":"Faculty 0299",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000300",
+    "faculty_name":"Faculty 0300",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000301",
+    "faculty_name":"Faculty 0301",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000302",
+    "faculty_name":"Faculty 0302",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000303",
+    "faculty_name":"Faculty 0303",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000304",
+    "faculty_name":"Faculty 0304",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000305",
+    "faculty_name":"Faculty 0305",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000306",
+    "faculty_name":"Faculty 0306",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000307",
+    "faculty_name":"Faculty 0307",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000308",
+    "faculty_name":"Faculty 0308",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000309",
+    "faculty_name":"Faculty 0309",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000310",
+    "faculty_name":"Faculty 0310",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000311",
+    "faculty_name":"Faculty 0311",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000312",
+    "faculty_name":"Faculty 0312",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000313",
+    "faculty_name":"Faculty 0313",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000314",
+    "faculty_name":"Faculty 0314",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000315",
+    "faculty_name":"Faculty 0315",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000316",
+    "faculty_name":"Faculty 0316",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000317",
+    "faculty_name":"Faculty 0317",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000318",
+    "faculty_name":"Faculty 0318",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000319",
+    "faculty_name":"Faculty 0319",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000320",
+    "faculty_name":"Faculty 0320",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000321",
+    "faculty_name":"Faculty 0321",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000322",
+    "faculty_name":"Faculty 0322",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000323",
+    "faculty_name":"Faculty 0323",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000324",
+    "faculty_name":"Faculty 0324",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000325",
+    "faculty_name":"Faculty 0325",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000326",
+    "faculty_name":"Faculty 0326",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000327",
+    "faculty_name":"Faculty 0327",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000328",
+    "faculty_name":"Faculty 0328",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000329",
+    "faculty_name":"Faculty 0329",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000330",
+    "faculty_name":"Faculty 0330",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000331",
+    "faculty_name":"Faculty 0331",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000332",
+    "faculty_name":"Faculty 0332",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000333",
+    "faculty_name":"Faculty 0333",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000334",
+    "faculty_name":"Faculty 0334",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000335",
+    "faculty_name":"Faculty 0335",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000336",
+    "faculty_name":"Faculty 0336",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000337",
+    "faculty_name":"Faculty 0337",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000338",
+    "faculty_name":"Faculty 0338",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000339",
+    "faculty_name":"Faculty 0339",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000340",
+    "faculty_name":"Faculty 0340",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000341",
+    "faculty_name":"Faculty 0341",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000342",
+    "faculty_name":"Faculty 0342",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000343",
+    "faculty_name":"Faculty 0343",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000344",
+    "faculty_name":"Faculty 0344",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000345",
+    "faculty_name":"Faculty 0345",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000346",
+    "faculty_name":"Faculty 0346",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000347",
+    "faculty_name":"Faculty 0347",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000348",
+    "faculty_name":"Faculty 0348",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000349",
+    "faculty_name":"Faculty 0349",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000350",
+    "faculty_name":"Faculty 0350",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000351",
+    "faculty_name":"Faculty 0351",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000352",
+    "faculty_name":"Faculty 0352",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000353",
+    "faculty_name":"Faculty 0353",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000354",
+    "faculty_name":"Faculty 0354",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000355",
+    "faculty_name":"Faculty 0355",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000356",
+    "faculty_name":"Faculty 0356",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000357",
+    "faculty_name":"Faculty 0357",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000358",
+    "faculty_name":"Faculty 0358",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000359",
+    "faculty_name":"Faculty 0359",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000360",
+    "faculty_name":"Faculty 0360",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000361",
+    "faculty_name":"Faculty 0361",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000362",
+    "faculty_name":"Faculty 0362",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000363",
+    "faculty_name":"Faculty 0363",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000364",
+    "faculty_name":"Faculty 0364",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000365",
+    "faculty_name":"Faculty 0365",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000366",
+    "faculty_name":"Faculty 0366",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000367",
+    "faculty_name":"Faculty 0367",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000368",
+    "faculty_name":"Faculty 0368",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000369",
+    "faculty_name":"Faculty 0369",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000370",
+    "faculty_name":"Faculty 0370",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000371",
+    "faculty_name":"Faculty 0371",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000372",
+    "faculty_name":"Faculty 0372",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000373",
+    "faculty_name":"Faculty 0373",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000374",
+    "faculty_name":"Faculty 0374",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000375",
+    "faculty_name":"Faculty 0375",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000376",
+    "faculty_name":"Faculty 0376",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000377",
+    "faculty_name":"Faculty 0377",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000378",
+    "faculty_name":"Faculty 0378",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000379",
+    "faculty_name":"Faculty 0379",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000380",
+    "faculty_name":"Faculty 0380",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000381",
+    "faculty_name":"Faculty 0381",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000382",
+    "faculty_name":"Faculty 0382",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000383",
+    "faculty_name":"Faculty 0383",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000384",
+    "faculty_name":"Faculty 0384",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000385",
+    "faculty_name":"Faculty 0385",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000386",
+    "faculty_name":"Faculty 0386",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000387",
+    "faculty_name":"Faculty 0387",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000388",
+    "faculty_name":"Faculty 0388",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000389",
+    "faculty_name":"Faculty 0389",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000390",
+    "faculty_name":"Faculty 0390",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000391",
+    "faculty_name":"Faculty 0391",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000392",
+    "faculty_name":"Faculty 0392",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000393",
+    "faculty_name":"Faculty 0393",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000394",
+    "faculty_name":"Faculty 0394",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000395",
+    "faculty_name":"Faculty 0395",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000396",
+    "faculty_name":"Faculty 0396",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000397",
+    "faculty_name":"Faculty 0397",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000398",
+    "faculty_name":"Faculty 0398",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000399",
+    "faculty_name":"Faculty 0399",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000400",
+    "faculty_name":"Faculty 0400",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000401",
+    "faculty_name":"Faculty 0401",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000402",
+    "faculty_name":"Faculty 0402",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000403",
+    "faculty_name":"Faculty 0403",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000404",
+    "faculty_name":"Faculty 0404",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000405",
+    "faculty_name":"Faculty 0405",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000406",
+    "faculty_name":"Faculty 0406",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000407",
+    "faculty_name":"Faculty 0407",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000408",
+    "faculty_name":"Faculty 0408",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000409",
+    "faculty_name":"Faculty 0409",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000410",
+    "faculty_name":"Faculty 0410",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000411",
+    "faculty_name":"Faculty 0411",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000412",
+    "faculty_name":"Faculty 0412",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000413",
+    "faculty_name":"Faculty 0413",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000414",
+    "faculty_name":"Faculty 0414",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000415",
+    "faculty_name":"Faculty 0415",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000416",
+    "faculty_name":"Faculty 0416",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000417",
+    "faculty_name":"Faculty 0417",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000418",
+    "faculty_name":"Faculty 0418",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000419",
+    "faculty_name":"Faculty 0419",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000420",
+    "faculty_name":"Faculty 0420",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000421",
+    "faculty_name":"Faculty 0421",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000422",
+    "faculty_name":"Faculty 0422",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000423",
+    "faculty_name":"Faculty 0423",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000424",
+    "faculty_name":"Faculty 0424",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000425",
+    "faculty_name":"Faculty 0425",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000426",
+    "faculty_name":"Faculty 0426",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000427",
+    "faculty_name":"Faculty 0427",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000428",
+    "faculty_name":"Faculty 0428",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000429",
+    "faculty_name":"Faculty 0429",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000430",
+    "faculty_name":"Faculty 0430",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000431",
+    "faculty_name":"Faculty 0431",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000432",
+    "faculty_name":"Faculty 0432",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000433",
+    "faculty_name":"Faculty 0433",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000434",
+    "faculty_name":"Faculty 0434",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000435",
+    "faculty_name":"Faculty 0435",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000436",
+    "faculty_name":"Faculty 0436",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000437",
+    "faculty_name":"Faculty 0437",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000438",
+    "faculty_name":"Faculty 0438",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000439",
+    "faculty_name":"Faculty 0439",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000440",
+    "faculty_name":"Faculty 0440",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000441",
+    "faculty_name":"Faculty 0441",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000442",
+    "faculty_name":"Faculty 0442",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000443",
+    "faculty_name":"Faculty 0443",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000444",
+    "faculty_name":"Faculty 0444",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000445",
+    "faculty_name":"Faculty 0445",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000446",
+    "faculty_name":"Faculty 0446",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000447",
+    "faculty_name":"Faculty 0447",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000448",
+    "faculty_name":"Faculty 0448",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000449",
+    "faculty_name":"Faculty 0449",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000450",
+    "faculty_name":"Faculty 0450",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000451",
+    "faculty_name":"Faculty 0451",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000452",
+    "faculty_name":"Faculty 0452",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000453",
+    "faculty_name":"Faculty 0453",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000454",
+    "faculty_name":"Faculty 0454",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000455",
+    "faculty_name":"Faculty 0455",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000456",
+    "faculty_name":"Faculty 0456",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000457",
+    "faculty_name":"Faculty 0457",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000458",
+    "faculty_name":"Faculty 0458",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000459",
+    "faculty_name":"Faculty 0459",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000460",
+    "faculty_name":"Faculty 0460",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000461",
+    "faculty_name":"Faculty 0461",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000462",
+    "faculty_name":"Faculty 0462",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000463",
+    "faculty_name":"Faculty 0463",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000464",
+    "faculty_name":"Faculty 0464",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000465",
+    "faculty_name":"Faculty 0465",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000466",
+    "faculty_name":"Faculty 0466",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000467",
+    "faculty_name":"Faculty 0467",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000468",
+    "faculty_name":"Faculty 0468",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000469",
+    "faculty_name":"Faculty 0469",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000470",
+    "faculty_name":"Faculty 0470",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000471",
+    "faculty_name":"Faculty 0471",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000472",
+    "faculty_name":"Faculty 0472",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000473",
+    "faculty_name":"Faculty 0473",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000474",
+    "faculty_name":"Faculty 0474",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000475",
+    "faculty_name":"Faculty 0475",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000476",
+    "faculty_name":"Faculty 0476",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000477",
+    "faculty_name":"Faculty 0477",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000478",
+    "faculty_name":"Faculty 0478",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000479",
+    "faculty_name":"Faculty 0479",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000480",
+    "faculty_name":"Faculty 0480",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000481",
+    "faculty_name":"Faculty 0481",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000482",
+    "faculty_name":"Faculty 0482",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000483",
+    "faculty_name":"Faculty 0483",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000484",
+    "faculty_name":"Faculty 0484",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000485",
+    "faculty_name":"Faculty 0485",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000486",
+    "faculty_name":"Faculty 0486",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000487",
+    "faculty_name":"Faculty 0487",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000488",
+    "faculty_name":"Faculty 0488",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000489",
+    "faculty_name":"Faculty 0489",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000490",
+    "faculty_name":"Faculty 0490",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000491",
+    "faculty_name":"Faculty 0491",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000492",
+    "faculty_name":"Faculty 0492",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000493",
+    "faculty_name":"Faculty 0493",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":10,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000494",
+    "faculty_name":"Faculty 0494",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000495",
+    "faculty_name":"Faculty 0495",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000496",
+    "faculty_name":"Faculty 0496",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000497",
+    "faculty_name":"Faculty 0497",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000498",
+    "faculty_name":"Faculty 0498",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":14,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000499",
+    "faculty_name":"Faculty 0499",
+    "employment_type":"FULL_TIME",
+    "weekly_workload_limit":8,
+    "status":"ACTIVE"
+  },
+  {
+    "faculty_id":"FAC-000500",
+    "faculty_name":"Faculty 0500",
+    "employment_type":"PART_TIME",
+    "weekly_workload_limit":12,
+    "status":"ACTIVE"
+  }
+]

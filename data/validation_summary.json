@@ -1,0 +1,13 @@
+{
+  "programs": 100,
+  "courses": 1000,
+  "faculty": 500,
+  "student_plans": 20000,
+  "registration_interests": 181847,
+  "sections_proposed": 1016,
+  "faculty_assignments": 1016,
+  "unmet_demand_students": 21933,
+  "forecast_students": 47333,
+  "validation_errors": [],
+  "validation_status": "PASS"
+}

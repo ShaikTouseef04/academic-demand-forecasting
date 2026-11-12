@@ -1,0 +1,902 @@
+[
+  {
+    "program_id":"PRG-000001",
+    "program_name":"Program 001",
+    "department":"Department 01",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000002",
+    "program_name":"Program 002",
+    "department":"Department 02",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000003",
+    "program_name":"Program 003",
+    "department":"Department 03",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000004",
+    "program_name":"Program 004",
+    "department":"Department 04",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000005",
+    "program_name":"Program 005",
+    "department":"Department 05",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000006",
+    "program_name":"Program 006",
+    "department":"Department 06",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000007",
+    "program_name":"Program 007",
+    "department":"Department 07",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000008",
+    "program_name":"Program 008",
+    "department":"Department 08",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000009",
+    "program_name":"Program 009",
+    "department":"Department 09",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000010",
+    "program_name":"Program 010",
+    "department":"Department 10",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000011",
+    "program_name":"Program 011",
+    "department":"Department 01",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000012",
+    "program_name":"Program 012",
+    "department":"Department 02",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000013",
+    "program_name":"Program 013",
+    "department":"Department 03",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000014",
+    "program_name":"Program 014",
+    "department":"Department 04",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000015",
+    "program_name":"Program 015",
+    "department":"Department 05",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000016",
+    "program_name":"Program 016",
+    "department":"Department 06",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000017",
+    "program_name":"Program 017",
+    "department":"Department 07",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000018",
+    "program_name":"Program 018",
+    "department":"Department 08",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000019",
+    "program_name":"Program 019",
+    "department":"Department 09",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000020",
+    "program_name":"Program 020",
+    "department":"Department 10",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000021",
+    "program_name":"Program 021",
+    "department":"Department 01",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000022",
+    "program_name":"Program 022",
+    "department":"Department 02",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000023",
+    "program_name":"Program 023",
+    "department":"Department 03",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000024",
+    "program_name":"Program 024",
+    "department":"Department 04",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000025",
+    "program_name":"Program 025",
+    "department":"Department 05",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000026",
+    "program_name":"Program 026",
+    "department":"Department 06",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000027",
+    "program_name":"Program 027",
+    "department":"Department 07",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000028",
+    "program_name":"Program 028",
+    "department":"Department 08",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000029",
+    "program_name":"Program 029",
+    "department":"Department 09",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000030",
+    "program_name":"Program 030",
+    "department":"Department 10",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000031",
+    "program_name":"Program 031",
+    "department":"Department 01",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000032",
+    "program_name":"Program 032",
+    "department":"Department 02",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000033",
+    "program_name":"Program 033",
+    "department":"Department 03",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000034",
+    "program_name":"Program 034",
+    "department":"Department 04",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000035",
+    "program_name":"Program 035",
+    "department":"Department 05",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000036",
+    "program_name":"Program 036",
+    "department":"Department 06",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000037",
+    "program_name":"Program 037",
+    "department":"Department 07",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000038",
+    "program_name":"Program 038",
+    "department":"Department 08",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000039",
+    "program_name":"Program 039",
+    "department":"Department 09",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000040",
+    "program_name":"Program 040",
+    "department":"Department 10",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000041",
+    "program_name":"Program 041",
+    "department":"Department 01",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000042",
+    "program_name":"Program 042",
+    "department":"Department 02",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000043",
+    "program_name":"Program 043",
+    "department":"Department 03",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000044",
+    "program_name":"Program 044",
+    "department":"Department 04",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000045",
+    "program_name":"Program 045",
+    "department":"Department 05",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000046",
+    "program_name":"Program 046",
+    "department":"Department 06",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000047",
+    "program_name":"Program 047",
+    "department":"Department 07",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000048",
+    "program_name":"Program 048",
+    "department":"Department 08",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000049",
+    "program_name":"Program 049",
+    "department":"Department 09",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000050",
+    "program_name":"Program 050",
+    "department":"Department 10",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000051",
+    "program_name":"Program 051",
+    "department":"Department 01",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000052",
+    "program_name":"Program 052",
+    "department":"Department 02",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000053",
+    "program_name":"Program 053",
+    "department":"Department 03",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000054",
+    "program_name":"Program 054",
+    "department":"Department 04",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000055",
+    "program_name":"Program 055",
+    "department":"Department 05",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000056",
+    "program_name":"Program 056",
+    "department":"Department 06",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000057",
+    "program_name":"Program 057",
+    "department":"Department 07",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000058",
+    "program_name":"Program 058",
+    "department":"Department 08",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000059",
+    "program_name":"Program 059",
+    "department":"Department 09",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000060",
+    "program_name":"Program 060",
+    "department":"Department 10",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000061",
+    "program_name":"Program 061",
+    "department":"Department 01",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000062",
+    "program_name":"Program 062",
+    "department":"Department 02",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000063",
+    "program_name":"Program 063",
+    "department":"Department 03",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000064",
+    "program_name":"Program 064",
+    "department":"Department 04",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000065",
+    "program_name":"Program 065",
+    "department":"Department 05",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000066",
+    "program_name":"Program 066",
+    "department":"Department 06",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000067",
+    "program_name":"Program 067",
+    "department":"Department 07",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000068",
+    "program_name":"Program 068",
+    "department":"Department 08",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000069",
+    "program_name":"Program 069",
+    "department":"Department 09",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000070",
+    "program_name":"Program 070",
+    "department":"Department 10",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000071",
+    "program_name":"Program 071",
+    "department":"Department 01",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000072",
+    "program_name":"Program 072",
+    "department":"Department 02",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000073",
+    "program_name":"Program 073",
+    "department":"Department 03",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000074",
+    "program_name":"Program 074",
+    "department":"Department 04",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000075",
+    "program_name":"Program 075",
+    "department":"Department 05",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000076",
+    "program_name":"Program 076",
+    "department":"Department 06",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000077",
+    "program_name":"Program 077",
+    "department":"Department 07",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000078",
+    "program_name":"Program 078",
+    "department":"Department 08",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000079",
+    "program_name":"Program 079",
+    "department":"Department 09",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000080",
+    "program_name":"Program 080",
+    "department":"Department 10",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000081",
+    "program_name":"Program 081",
+    "department":"Department 01",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000082",
+    "program_name":"Program 082",
+    "department":"Department 02",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000083",
+    "program_name":"Program 083",
+    "department":"Department 03",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000084",
+    "program_name":"Program 084",
+    "department":"Department 04",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000085",
+    "program_name":"Program 085",
+    "department":"Department 05",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000086",
+    "program_name":"Program 086",
+    "department":"Department 06",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000087",
+    "program_name":"Program 087",
+    "department":"Department 07",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000088",
+    "program_name":"Program 088",
+    "department":"Department 08",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000089",
+    "program_name":"Program 089",
+    "department":"Department 09",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000090",
+    "program_name":"Program 090",
+    "department":"Department 10",
+    "degree_level":"PG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000091",
+    "program_name":"Program 091",
+    "department":"Department 01",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000092",
+    "program_name":"Program 092",
+    "department":"Department 02",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000093",
+    "program_name":"Program 093",
+    "department":"Department 03",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000094",
+    "program_name":"Program 094",
+    "department":"Department 04",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000095",
+    "program_name":"Program 095",
+    "department":"Department 05",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000096",
+    "program_name":"Program 096",
+    "department":"Department 06",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000097",
+    "program_name":"Program 097",
+    "department":"Department 07",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000098",
+    "program_name":"Program 098",
+    "department":"Department 08",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000099",
+    "program_name":"Program 099",
+    "department":"Department 09",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  },
+  {
+    "program_id":"PRG-000100",
+    "program_name":"Program 100",
+    "department":"Department 10",
+    "degree_level":"UG",
+    "status":"ACTIVE",
+    "effective_from":"2024-07-01",
+    "effective_to":""
+  }
+]

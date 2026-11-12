@@ -1,0 +1,6 @@
+fixture_id,case_id,issue_type,entity_id,invalid_condition,baseline_corrupted
+FIX-001,ANOM-001,FACULTY_OUTSIDE_SKILL_SET,SEC-2026-000001,Assigned faculty lacks course.required_skill,False
+FIX-002,ANOM-002,WORKLOAD_EXCEEDED,SEC-2026-000001,Proposed weekly hours exceed faculty weekly_workload_limit,False
+FIX-003,ANOM-003,SECTION_CAPACITY_TOO_LOW,SEC-2026-000001,Forecast demand is greater than sum of section capacities,False
+FIX-004,ANOM-004,COURSE_BEFORE_PREREQUISITE,CRS-000001,Course term precedes completion term of required course,False
+FIX-005,ANOM-005,DUPLICATE_SECTION_ASSIGNMENT,SEC-2026-000001,Same faculty is assigned to same section more than once,False
